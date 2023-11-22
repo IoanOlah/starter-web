@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Ioan Olah olah.ioan@gmail.com @iO
 
 # THANKS
 
